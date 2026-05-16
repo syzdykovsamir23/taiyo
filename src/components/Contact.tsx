@@ -60,7 +60,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h3 className="text-white uppercase tracking-[0.2em] text-xs mb-3 font-medium">Бронирование</h3>
-                  <p className="text-gray-400 font-light text-sm md:text-base">+7‒776‒111... (Смотреть в 2ГИС)</p>
+                  <p className="text-gray-400 font-light text-sm md:text-base">+7‒776‒111-66-33</p>
                   <div className="flex gap-6 mt-6">
                     <a href="#" className="text-gray-500 hover:text-gold-500 transition-colors flex items-center gap-2 text-xs uppercase tracking-[0.2em]">
                       <Instagram size={16} /> Instagram
